@@ -1,1 +1,1 @@
-## Omnifood | an AI-powered food subscription
+## Omnifood | an AI-powered food subscription Landing Page.
