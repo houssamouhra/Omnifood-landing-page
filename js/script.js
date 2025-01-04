@@ -1,7 +1,9 @@
-// mobile nav bar toggle
+// Update the Year every automatically
 const yearEl = document.querySelector(".year"),
   currentYear = new Date().getFullYear();
 yearEl.textContent = currentYear;
+
+// Mobile nav bar toggle
 const btnNav = document.querySelector(".btn-mobile-nav"),
   headerEl = document.querySelector(".header"),
   arrowIcon = document.querySelector(".arrow-icon");
@@ -9,7 +11,7 @@ btnNav.addEventListener("click", function () {
   headerEl.classList.toggle("nav-open");
 });
 
-// sticky nav bar
+// Sticky nav bar
 const sectionHeroEl = document.querySelector(".section-hero"),
   obs = new IntersectionObserver(
     function (e) {
