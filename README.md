@@ -5,7 +5,7 @@ Omnifood is a fully responsive landing page built for a fictional AI-powered foo
 
 This project was created as part of a front-end development course and emphasizes industry best practices in layout, accessibility, and visual design.
 
-</br>
+<br>
 
 ### 📷preview
 
